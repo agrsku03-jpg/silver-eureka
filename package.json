@@ -1,0 +1,26 @@
+{
+  "name": "gradient-grant-bank",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "^10.5.2",
+    "lucide-react": "latest",
+    "next": "latest",
+    "postcss": "^8.5.16",
+    "react": "latest",
+    "react-dom": "latest",
+    "recharts": "latest",
+    "tailwindcss": "^3.4.17",
+    "typescript": "latest"
+  }
+}

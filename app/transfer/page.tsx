@@ -1,0 +1,1 @@
+import { DemoForm } from '@/components/BankComponents';import { PageHeader } from '@/components/Layout';export default function Page(){return <><PageHeader title="Money transfer" subtitle="Demo-only transfer flow with preview state."/><div className="px-4 py-10"><DemoForm type="Transfer funds"/></div></>}

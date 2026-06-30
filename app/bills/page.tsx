@@ -1,0 +1,1 @@
+import { DemoForm } from '@/components/BankComponents';import { PageHeader } from '@/components/Layout';export default function Page(){return <><PageHeader title="Bill payments" subtitle="Schedule fictional utility, rent, and subscription payments."/><div className="px-4 py-10"><DemoForm type="Pay a bill"/></div></>}
